@@ -1,0 +1,10 @@
+[
+{"id":"20260313-001","title":"OpenAI发布GPT-4.5：推理能力大幅提升，支持多模态长上下文","summary":"OpenAI今日正式发布GPT-4.5，新版本在推理能力、多模态理解和长上下文处理方面都有显著提升。支持最高200万token的上下文窗口...","category":"AI技术","publishedAt":"2026-03-13","sourceCount":2,"contentFile":"articles/article-20260313-001.md"},
+{"id":"20260313-002","title":"Claude 4深夜发布：Anthropic称已超越GPT-4.5","summary":"Anthropic今日凌晨发布Claude 4，CEO Dario Amodei表示新模型在安全性和推理能力上都有重大突破，多项基准测试已超越GPT-4.5...","category":"AI技术","publishedAt":"2026-03-13","sourceCount":1,"contentFile":"articles/article-20260313-002.md"},
+{"id":"20260313-003","title":"Cursor完成5000万美元融资，AI编程工具市场持续升温","summary":"AI编程工具Cursor开发商Anysphere宣布完成5000万美元A轮融资，估值达5亿美元。Cursor基于Claude和GPT-4，已有超过100万开发者使用...","category":"AI编程","publishedAt":"2026-03-13","sourceCount":2,"contentFile":"articles/article-20260313-003.md"},
+{"id":"20260313-004","title":"OpenClaw发布v2.0：原生支持MCP，Agent生态全面升级","summary":"OpenClaw今日发布v2.0版本，这是该项目迄今为止最大的更新。新版本原生支持Model Context Protocol（MCP），大幅提升了AI Agent的扩展能力...","category":"AI编程","publishedAt":"2026-03-13","sourceCount":1,"contentFile":"articles/article-20260313-004.md"},
+{"id":"20260313-005","title":"字节跳动发布豆包Pro：中文大模型能力再突破","summary":"字节跳动今日发布豆包大模型Pro版本，在中文理解和生成能力上达到业界领先水平。同时宣布API价格大幅下调，输入token降至0.0005元/千token...","category":"AI技术","publishedAt":"2026-03-13","sourceCount":2,"contentFile":"articles/article-20260313-005.md"},
+{"id":"20260313-006","title":"AI Agent创业热潮：2026年已有50家Agent初创公司获得融资","summary":"2026年AI Agent领域投资持续火热，已有超过50家Agent初创公司获得融资，总融资额超过30亿美元...","category":"AI商业","publishedAt":"2026-03-13","sourceCount":1,"contentFile":"articles/article-20260313-006.md"},
+{"id":"20260313-007","title":"英伟达GTC 2026：发布H200 AI芯片，推理性能提升3倍","summary":"英伟达在GTC 2026大会上发布新一代AI加速芯片H200，采用全新架构，推理性能相比H100提升3倍，能效比提升2倍...","category":"AI硬件","publishedAt":"2026-03-13","sourceCount":2,"contentFile":"articles/article-20260313-007.md"},
+{"id":"20260313-008","title":"RAG技术进化：向量数据库迎来爆发式增长","summary":"随着大模型应用落地，RAG（检索增强生成）技术需求激增，向量数据库市场迎来爆发式增长。Pinecone、Weaviate等公司融资额创新高...","category":"AI应用","publishedAt":"2026-03-13","sourceCount":1,"contentFile":"articles/article-20260313-008.md"}
+]
